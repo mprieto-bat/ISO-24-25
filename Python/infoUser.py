@@ -47,5 +47,5 @@ while True:
             break
         case _:
             print("Opcion no valida")
-
+            break
 
